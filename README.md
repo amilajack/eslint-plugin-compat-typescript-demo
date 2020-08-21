@@ -1,6 +1,6 @@
 eslint-plugin-compat-typescript-demo
 =========================
-[![Build Status](https://travis-ci.org/amilajack/eslint-plugin-compat-typescript-demo.svg?branch=master)](https://travis-ci.org/amilajack/eslint-plugin-compat)
+![Test](https://github.com/amilajack/eslint-plugin-compat-typescript-demo/workflows/Test/badge.svg)
 [![Dependency Status](https://img.shields.io/david/amilajack/eslint-plugin-compat-typescript-demo.svg)](https://david-dm.org/amilajack/eslint-plugin-compat)
 
 **A minimal demo of [`eslint-plugin-compat`](https://github.com/amilajack/eslint-plugin-compat)**
