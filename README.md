@@ -5,7 +5,7 @@ eslint-plugin-compat-typescript-demo
 
 **A minimal demo of [`eslint-plugin-compat`](https://github.com/amilajack/eslint-plugin-compat)**
 
-![demo of plugin usage](https://raw.githubusercontent.com/amilajack/eslint-plugin-compat/master/img/eslint-plugin-compat-typescript-demo.gif)
+![demo of plugin usage](https://raw.githubusercontent.com/amilajack/eslint-plugin-compat/master/img/eslint-plugin-compat-demo.gif)
 
 
 ## Setup
